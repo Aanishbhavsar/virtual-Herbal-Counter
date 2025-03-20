@@ -1,6 +1,6 @@
 /* Hero Section */
 .hero-section {
-    background-image: url("../assets/garden-bg.jpg"); /* Change this to match your image path */
+    background-image: url("../assets/images/heroimage.jpeg"); /* Change this to match your image path */
     font-family: "Nerko One", cursive;
     background-repeat: no-repeat;
     background-size: cover;

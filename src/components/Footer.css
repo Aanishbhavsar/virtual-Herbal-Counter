@@ -1,0 +1,54 @@
+/* Footer Styles */
+.footer {
+    background-color: #2e7d32; /* Herbal green */
+    color: white;
+    padding: 2rem 0;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+  }
+  
+  .footer-container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 1rem;
+  }
+  
+  /* Footer Title */
+  .footer-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+  
+  /* Footer Description */
+  .footer-description {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+  }
+  
+  /* Footer Links */
+  .footer-links,
+  .footer-social {
+    margin: 1.5rem 0;
+  }
+  
+  .footer-links a,
+  .footer-social a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 1rem;
+    transition: color 0.3s;
+  }
+  
+  .footer-links a:hover,
+  .footer-social a:hover {
+    color: #b7e4c7; /* Light green */
+  }
+  
+  /* Copyright */
+  .footer-copy {
+    font-size: 0.9rem;
+    margin-top: 1rem;
+    opacity: 0.8;
+  }
+  

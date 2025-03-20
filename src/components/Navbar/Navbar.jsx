@@ -1,7 +1,7 @@
 
-
 import React from "react";
 import "./Navbar.css";
+
 
 const Navbar = () => {
   return (
@@ -13,6 +13,7 @@ const Navbar = () => {
         <li><a href="#about">Awareness</a></li>
         <li><a href="#about">Login</a></li>
         <li><a href="#about">Quiz</a></li>
+        <li><a href="#about">Add Information</a></li>
       </ul>
       <div className="search-container">
         <input type="text" placeholder="Search herbs..." className="search-input" />
